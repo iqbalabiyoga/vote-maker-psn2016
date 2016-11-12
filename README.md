@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
 [Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
@@ -35,3 +36,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+=======
+# vote-maker-psn2016
+Sistem Voting untuk Stand Maker di PSN 2016 (optimized for fullscreen 1366x768). Jika bermasalah dengan data atau konfigurasi lainnya, silakan hubungi Iqbal : 08996451049, line : iqbalabiyoga
+>>>>>>> d38bf8ecdd3616b164bc72417cd96a7cf67c0391
