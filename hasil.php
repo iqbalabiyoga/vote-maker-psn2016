@@ -92,6 +92,7 @@
             </table>
             
             <h3>Jumlah Voter : <?php echo $jumlah['jum'];?></h3>
+            
         </div>
    
 </body>
